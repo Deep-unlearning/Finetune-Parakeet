@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+librosa
+jiwer
+peft
+accelerate
+soundfile
+numpy
+tqdm
