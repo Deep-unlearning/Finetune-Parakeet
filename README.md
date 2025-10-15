@@ -1,4 +1,4 @@
-# Finetune Voxtral for ASR with Transformers 🤗
+# Finetune Parakeet for ASR with Transformers 🤗
 
 This repository fine-tunes the [Parakeet](https://github.com/NVIDIA/Parakeet) speech model on conversational speech datasets using the Hugging Face `transformers` and `datasets` libraries.
 
@@ -8,7 +8,7 @@ This repository fine-tunes the [Parakeet](https://github.com/NVIDIA/Parakeet) sp
 
 ```bash
 git clone https://github.com/Deep-unlearning/Finetune-Parakeet.git
-cd Finetune-Voxtral-ASR
+cd Finetune-Parakeet
 ```
 
 ### Step 2: Set up environment
