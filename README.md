@@ -1,6 +1,6 @@
 # Finetune Parakeet for ASR with Transformers 🤗
 
-This repository fine-tunes the [Parakeet CTC models](nvidia/parakeet-ctc-0.6b) speech model on conversational speech datasets using the Hugging Face `transformers` and `datasets` libraries.
+This repository fine-tunes the [Parakeet CTC models](https://huggingface.co/nvidia/parakeet-ctc-0.6b) speech model on conversational speech datasets using the Hugging Face `transformers` and `datasets` libraries.
 
 ## Installation
 
